@@ -2,7 +2,7 @@
 
 # Frontend Mentor - Product preview card component
 
-## Demo:https://mohamed-his.github.io/product-preview-card-component-main/
+## Demo:https://mohamed-his.github.io/product-preview-card-component-main-responsive-by-Chat-GPT/
 
 
 # Features:
